@@ -8,7 +8,6 @@
 <div align=center> 
         
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=semin0925)](https://solved.ac/semin0925)
-<br>
 </div>
 
 <h3>  💻 Main STACKS</h3>
@@ -41,4 +40,15 @@
   
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <br>
+</div>
+
+
+<h3> 📝 GRADES (성적)</h3>
+<div align="center">
+        
+| 학기    | 1학년 1학기  | 1학년 2학기  | 2학년 1학기 | 2학년 2학기  | 3학년 1학기 |
+| ----------- | ------------------ | ------------ | ---------------------- | ------------------------- | ------------------------- |
+| (누적) 전체 평점 | 0.00 | 2.54 | 3.97 |4.15 | 4.20 |
+
+  
 </div>
