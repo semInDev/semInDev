@@ -11,7 +11,7 @@
 
 <h3> 📝 GRADES (성적)</h3>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6e1a523d-559c-49ba-ba9a-3e3369f7ee1c"  width="750"/>
+  <img src="https://github.com/user-attachments/assets/6e1a523d-559c-49ba-ba9a-3e3369f7ee1c"  width="700"/>
 
   | 이수 학기    | 1학년 1학기  | 1학년 2학기  | 2학년 1학기 | 2학년 2학기  | 3학년 1학기 |
   | ----------- | ------------------ | ------------ | ------------------------- | ------------------------- | ------------------------- |
